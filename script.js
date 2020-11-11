@@ -103,7 +103,7 @@ choices.forEach(choice => {
 })
 
 incrementScore = num => {
-    score +=num
+    score +=numgit
     scoreText.innerText = score
 
 }
