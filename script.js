@@ -86,7 +86,9 @@ choices.forEach(choice => {
        if(!acceptingAnswers) return
        acceptingAnswers = false 
        const selectedChoice = e.target
-       const selectedAnswer = selectedChoice.dataset['number']
+       const selectedAnswer = selectedChoice.innerText
+       console.log(selectedAnswer); //ie answer
+       console.log(currentQuestion.answer); // fontsize
        let classToApply = selectedAnswer == currentQuestion.answer ? "correct" : "incorrect"
        if(classToApply === 'correct') {
            incrementScore(SCORE_POINTS)
