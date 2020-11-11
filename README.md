@@ -79,6 +79,7 @@ This homework is graded based on the following criteria:
 You are required to submit BOTH of the following for review:
 
 - The URL of the functional, deployed application.
+  https://danicutler.github.io/quiz-game/
 
 - The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
