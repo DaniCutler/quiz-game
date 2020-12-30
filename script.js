@@ -61,7 +61,7 @@ startGame = () => {
 getNewQuestion = () => {
     if(availableQuestions.length === 0 || questionCounter > MAX_QUESTIONS) {
         localStorage.setItem ('mostRecentScore', score)
-        return window.location.assign('/end.html')
+        return window.location.assign('end.html')
     }
 // calculates what question we are on and what the score is currently
     questionCounter++
@@ -103,7 +103,7 @@ choices.forEach(choice => {
 })
 
 incrementScore = num => {
-    score +=numgit
+    score +=num
     scoreText.innerText = score
 
 }
