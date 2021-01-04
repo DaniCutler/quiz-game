@@ -27,6 +27,14 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 ```
+## Technologies, Languages, Frameworks being used:
+
+JavaScript- used to dynamically change the html and store-user input
+HTML- used to create elements on the DOM
+CSS- used for styling html elements on the page.
+Bootstrap- Used for creating responsive structure and styling for this app.
+Local storage- used to keep the variables and their values.
+
 
 This was one of my first tasks in coding. I however had to go back and make some big changes. My tutor and I went through and worked on it to get it up and running.
 I will say that I can really see the difference in my coding from the beginning to now. I am upset that the new student me did not console.log or pseudo code
