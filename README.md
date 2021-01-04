@@ -27,6 +27,24 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 ```
+
+## Play Game
+![play](https://user-images.githubusercontent.com/72281065/103496660-4e8ea280-4dfc-11eb-93c7-33b3d727c518.PNG)
+
+## User interaction with questions
+![questions](https://user-images.githubusercontent.com/72281065/103496674-551d1a00-4dfc-11eb-9256-9f3c2a7c2a4f.PNG)
+
+## Score is being saved as played
+![score](https://user-images.githubusercontent.com/72281065/103496676-58180a80-4dfc-11eb-9836-5b34ed9bfaf0.PNG)
+
+## User can save score with initials
+![save score](https://user-images.githubusercontent.com/72281065/103496678-5b12fb00-4dfc-11eb-8c88-c5c382e1b560.PNG)
+
+## User is able to see the leaderboard
+![leaderboard](https://user-images.githubusercontent.com/72281065/103496682-5cdcbe80-4dfc-11eb-8646-03c9c05b532d.PNG)
+
+
+
 ## Technologies, Languages, Frameworks being used:
 
 JavaScript- used to dynamically change the html and store-user input
