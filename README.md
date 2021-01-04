@@ -28,3 +28,7 @@ WHEN the game is over
 THEN I can save my initials and score
 ```
 
+This was one of my first tasks in coding. I however had to go back and make some big changes. My tutor and I went through and worked on it to get it up and running.
+I will say that I can really see the difference in my coding from the beginning to now. I am upset that the new student me did not console.log or pseudo code
+so that I am able to disect the code and debug later. I really wanted to wipe it clean and start over, but my tutor suggested otherwise and that I should fix the suggested 
+fixes and then  move on. 
